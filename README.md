@@ -1,4 +1,4 @@
-wats1010-adv-markup
+ wats1010-adv-markup
 ===================
 
 This is the source repository for the WATS1010 Introduction to Web Development
